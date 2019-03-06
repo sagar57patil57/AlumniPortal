@@ -1,4 +1,16 @@
-Alumni Portal
+<b>Alumni Portal</b>
 
-USER : Signup Login ,
-Search and Filter Alumnis, Gallery ,View Profiles of other Alumnis ,Add posts ,Event Blog ,Invite other alumnis for Events, Latest College News ;</br>ADMIN :- Inform Alumnis about Upcoming Events via email ,Upload pictures to Gallery ,Add Events ,Delete Users
+USER : </br>
+Signup Login</br>
+Search and Filter Alumnis</br>
+Gallery </br>
+View Profiles of other Alumnis </br>
+Add posts </br>
+Event Blog </br>Invite other alumnis for Events
+</br>Latest College News </br>
+</br>
+ADMIN :- </br>
+Inform Alumnis about Upcoming Events via email </br>
+Upload pictures to Gallery </br>
+Add Events </br>
+Delete Users
