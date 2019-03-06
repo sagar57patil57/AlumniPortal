@@ -5,7 +5,7 @@
   <li>JSP</li>
   <li>Servlets</li>
   <li>JDBC Driver</li>
-  <li>Ajax,Jquery,Bootstrap</li>
+  <li>HTML-5,CSS-3,JavaScript,Ajax,Jquery,Bootstrap</li>
   <li>Tomcat</li>
 </ul>
 <p>Features :- </p>
