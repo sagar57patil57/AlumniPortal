@@ -1,5 +1,8 @@
 <b>Alumni Portal</b>
 
+<p>Features :- </p>
+</br>
+<hr>
 USER : </br>
 Signup Login</br>
 Search and Filter Alumnis</br>
