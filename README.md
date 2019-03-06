@@ -18,6 +18,7 @@ View Profiles of other Alumnis </br>
 Add posts </br>
 Event Blog </br>Invite other alumnis for Events
 </br>Latest College News </br>
+Feedback</br>
 </br>
 <i><b>ADMIN : </b></i></br>
 Inform Alumnis about Upcoming Events via email </br>
