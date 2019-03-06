@@ -1,5 +1,14 @@
 <h1>Alumni Portal</h1>
 <hr>
+<p>Tech Used :- </p>
+</br>
+<ul>
+  <li>JSP</li>
+  <li>Servlets</li>
+  <li>JDBC Driver</li>
+  <li>Ajax,Jquery,Bootstrap</li>
+  <li>Tomcat</li>
+</ul>
 <p>Features :- </p>
 </br>
 <i><b>USER : </b></i></br>
