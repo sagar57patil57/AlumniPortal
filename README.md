@@ -1,2 +1,1 @@
-# AlumniPortal
-An Alumni Portal
+Alumni Portal
