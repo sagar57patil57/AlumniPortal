@@ -11,7 +11,7 @@
 <p>Features :- </p>
 </br>
 <i><b>USER : </b></i></br>
-Signup Login(All Validations)</br>
+Signup Login</br>
 Search and Filter Alumnis</br>
 Gallery </br>
 View Profiles of other Alumnis </br>
