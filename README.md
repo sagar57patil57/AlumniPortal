@@ -1,7 +1,6 @@
 <h1>Alumni Portal</h1>
 <hr>
 <p>Tech Used :- </p>
-</br>
 <ul>
   <li>JSP</li>
   <li>Servlets</li>
