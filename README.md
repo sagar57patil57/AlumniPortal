@@ -1,4 +1,4 @@
-<b>Alumni Portal</b>
+<h1>Alumni Portal</h1>
 <hr>
 <p>Features :- </p>
 </br>
